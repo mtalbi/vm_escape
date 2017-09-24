@@ -5,8 +5,8 @@ Magazine](http://phrack.org/papers/vm-escape-qemu-case-study.html)
 
 The paper covers the combination of two QEMU vulnerabilities to escape from a VM:
 
-*   **CVE-2015-5165**
-*   **CVE-2015-7504**
+*   CVE-2015-5165
+*   CVE-2015-7504
 
 #### Acknowledgements
 
